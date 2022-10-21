@@ -1,6 +1,4 @@
-package main.java.com.bogdan_yanushkevich.javacore.command;
-
-import java.util.concurrent.ConcurrentMap;
+package main.java.com.bogdan_yanushkevich.javacore.design_patterns.command;
 
 public class UpdateCommand implements Command {
     CRUD crud;

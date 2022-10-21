@@ -1,4 +1,4 @@
-package main.java.com.bogdan_yanushkevich.javacore.command;
+package main.java.com.bogdan_yanushkevich.javacore.design_patterns.command;
 
 public class CreateCommand implements Command{
     CRUD crud;

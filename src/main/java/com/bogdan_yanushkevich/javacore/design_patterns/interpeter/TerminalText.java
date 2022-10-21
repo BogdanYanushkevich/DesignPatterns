@@ -1,4 +1,4 @@
-package main.java.com.bogdan_yanushkevich.javacore.interpeter;
+package main.java.com.bogdan_yanushkevich.javacore.design_patterns.interpeter;
 
 public class TerminalText implements Text {
     private String sv;
